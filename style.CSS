@@ -1,0 +1,205 @@
+body{
+    background-color: #04030f;
+    background-image: url(pexels-alexander-ant-4585185.jpg);
+    background-repeat: no-repeat;
+    background-size:100%;
+    
+}
+
+/* This is where the header strats */
+
+img{
+    height:150px;
+    float:left;
+    padding-left: 50px;
+    top:0px;
+}
+nav a{
+    color:aliceblue;
+    text-decoration: none;
+    float:right;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left:7px;
+    padding-right: 7px;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+nav{
+    padding-right: 50px;
+    padding-top: 30px;
+    top:0px;
+}
+a:hover{ 
+color:red;
+}
+
+/* This is where the body starts */
+
+h1{
+    font-size: 70px;
+    color:aliceblue;
+    text-align: center;
+    margin-top: 250px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+/* #sinister{
+    height: 70px;
+    background-color: aqua;
+    width: 700px;
+    left:400px;
+    justify-content: center;
+    align-items: center;
+}
+#par{
+    height: 70px;
+    justify-content: center;
+    align-items: center;
+} */
+
+/* I centred a div for the first time */
+#div1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 50px;
+    margin-bottom: 300px;
+    font-size: 15px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#paragraph{
+    color:aliceblue;
+    text-align: center;
+    width: 900px;
+}
+
+/* This the the next part of the body */
+
+/* First Paragraph */
+#serve{
+    color:#f5f6f7;
+} /* The small title with p tag */
+
+#div2{
+    padding-left: 70px;
+    float:left;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: larger;
+} /* The div of that small title */
+
+.do{
+    color:aliceblue;
+} 
+#div3{
+    float:left;
+    margin-top: 30px;
+    margin-left: -130px;
+    font-size: 30px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#div4{
+    float:right;
+    width:500px;
+    font-size:20px;
+    padding-right: 55px;
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+#parent{
+    background-color: #04030f;
+    height:200px;
+}
+
+/* Second Paragraph */
+
+#offer{
+    color:aliceblue;
+}
+.offer{
+    padding-left: 70px;
+    float:left;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: larger;
+}
+#talent{
+    color:aliceblue;
+}
+.talent{
+    float:left;
+    margin-top: 30px;
+    margin-left: -147px;
+    font-size: 30px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#ourt{
+    color:aliceblue;
+}
+.ourt{
+    float:right;
+    width:500px;
+    font-size:20px;
+    padding-right: 55px;
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+#parent2{
+    height:200px;
+}
+
+/* Third Paragraph */
+
+#production{
+    color:aliceblue;
+}
+.production{
+    float:left;
+    margin-top: 30px;
+    margin-left: 65px;
+    font-size: 30px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#weat{
+    color:aliceblue;
+}
+.weat{
+    float:right;
+    width:500px;
+    font-size:20px;
+    padding-right: 55px;
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+#parent3{
+    height:200px;
+}
+
+/* This is the third part of the page */
+
+
+/* Gaming */
+
+h3{
+    color:aliceblue;
+    font-size: 100px;
+    opacity: 0.2;
+    text-align: center;
+}
+#gam{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin:0px;
+    /* padding-top: 300px;
+    margin-bottom: 270px; */
+}
+
+/* Clients */
+
+h4{
+    color: aquamarine;
+    font-size: 60px;
+    font-family: fantasy,monospace;
+}
+#clients{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
